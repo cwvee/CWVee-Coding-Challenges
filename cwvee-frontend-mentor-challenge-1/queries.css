@@ -1,0 +1,22 @@
+@media (max-width: 24em) {
+  .container {
+    padding: 4rem 0;
+  }
+
+  .product-card {
+    max-width: 90%;
+
+    grid-template-columns: 1fr;
+  }
+
+  .product-text {
+    grid-column: 1;
+  }
+
+  .product-description {
+    font-size: ;
+  }
+
+  .product-picture {
+  }
+}
